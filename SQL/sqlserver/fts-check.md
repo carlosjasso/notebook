@@ -12,3 +12,5 @@ SELECT
 	END
 ;
 ```
+
+*[source](https://stackoverflow.com/questions/6511167/full-text-search-installed-or-not)*
