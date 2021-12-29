@@ -14,6 +14,7 @@ _Note:_ Make sure to download the [recommended font](https://github.com/romkatv/
 	- Open `~/.p10k.zsh`
 	- Search for `POWERLEVEL9K_SHORTEN_STRATEGY`
 	- Set value to `truncate_to_last
+	- Re-configure p10k with `p10k configure`
 
 ## Plugins
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
